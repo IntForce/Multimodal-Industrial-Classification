@@ -1,0 +1,108 @@
+{
+    "library": "SolidLetters",
+    "epochs": 10,
+    "history": [
+        {
+            "timestamp": "20260525_234733",
+            "epoch": 1,
+            "average_train_loss": 0.7233387448221836,
+            "average_val_loss": 0.33451868384562117,
+            "val_accuracy": 0.9156277980577174,
+            "val_f1_macro": 0.9145554354576573,
+            "val_precision_macro": 0.9197908477429085,
+            "val_recall_macro": 0.9160705250302439
+        },
+        {
+            "timestamp": "20260526_004556",
+            "epoch": 2,
+            "average_train_loss": 0.29628387501478687,
+            "average_val_loss": 0.26230236691597225,
+            "val_accuracy": 0.9273365934292995,
+            "val_f1_macro": 0.9275912157250794,
+            "val_precision_macro": 0.9293795295426764,
+            "val_recall_macro": 0.9277432179139021
+        },
+        {
+            "timestamp": "20260526_014405",
+            "epoch": 3,
+            "average_train_loss": 0.24030736711512868,
+            "average_val_loss": 0.21907293306801215,
+            "val_accuracy": 0.9317446105103657,
+            "val_f1_macro": 0.9311222735240215,
+            "val_precision_macro": 0.9367572702093594,
+            "val_recall_macro": 0.9325076233124678
+        },
+        {
+            "timestamp": "20260526_024237",
+            "epoch": 4,
+            "average_train_loss": 0.20505340415270368,
+            "average_val_loss": 0.2110895763902435,
+            "val_accuracy": 0.9324333631792823,
+            "val_f1_macro": 0.9327201837241483,
+            "val_precision_macro": 0.9349690342580274,
+            "val_recall_macro": 0.9327110679886235
+        },
+        {
+            "timestamp": "20260526_034048",
+            "epoch": 5,
+            "average_train_loss": 0.18127760348760869,
+            "average_val_loss": 0.2039269400999776,
+            "val_accuracy": 0.9378056339968317,
+            "val_f1_macro": 0.9385308556188896,
+            "val_precision_macro": 0.940085529203038,
+            "val_recall_macro": 0.9383188051571645
+        },
+        {
+            "timestamp": "20260526_043901",
+            "epoch": 6,
+            "average_train_loss": 0.1619998998191607,
+            "average_val_loss": 0.19374644398756938,
+            "val_accuracy": 0.9393208898684482,
+            "val_f1_macro": 0.9394465268274518,
+            "val_precision_macro": 0.9434087309676631,
+            "val_recall_macro": 0.9400866645551088
+        },
+        {
+            "timestamp": "20260526_053713",
+            "epoch": 7,
+            "average_train_loss": 0.14677902404650145,
+            "average_val_loss": 0.19417232745316632,
+            "val_accuracy": 0.9382877608650734,
+            "val_f1_macro": 0.9389013414478153,
+            "val_precision_macro": 0.9403482690007053,
+            "val_recall_macro": 0.9388101186721205
+        },
+        {
+            "timestamp": "20260526_063528",
+            "epoch": 8,
+            "average_train_loss": 0.1340311161290737,
+            "average_val_loss": 0.20512125464460138,
+            "val_accuracy": 0.9331221158481989,
+            "val_f1_macro": 0.9335322097698816,
+            "val_precision_macro": 0.9374351148473192,
+            "val_recall_macro": 0.9340290974305533
+        },
+        {
+            "timestamp": "20260526_073355",
+            "epoch": 9,
+            "average_train_loss": 0.12127473499799822,
+            "average_val_loss": 0.21304637878223148,
+            "val_accuracy": 0.9387010124664233,
+            "val_f1_macro": 0.939083060759214,
+            "val_precision_macro": 0.94117168878613,
+            "val_recall_macro": 0.9392603827159937
+        },
+        {
+            "timestamp": "20260526_083232",
+            "epoch": 10,
+            "average_train_loss": 0.10827940498961948,
+            "average_val_loss": 0.20646247027131417,
+            "val_accuracy": 0.9400096425373649,
+            "val_f1_macro": 0.9404273813961078,
+            "val_precision_macro": 0.9425360271770398,
+            "val_recall_macro": 0.9404327460285834
+        }
+    ],
+    "finished_at": "20260526_083232",
+    "duration_seconds": 35136.135934
+}

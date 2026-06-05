@@ -1,0 +1,108 @@
+{
+    "library": "TraceParts",
+    "epochs": 10,
+    "history": [
+        {
+            "timestamp": "20260525_121222",
+            "epoch": 1,
+            "average_train_loss": 0.15654519371128564,
+            "average_val_loss": 0.10997411534077925,
+            "val_accuracy": 0.9734287174246296,
+            "val_f1_macro": 0.43114812982831047,
+            "val_precision_macro": 0.4142979911278969,
+            "val_recall_macro": 0.4614187353642306
+        },
+        {
+            "timestamp": "20260525_124434",
+            "epoch": 2,
+            "average_train_loss": 0.08301989141104796,
+            "average_val_loss": 0.07343181746129182,
+            "val_accuracy": 0.982881962187021,
+            "val_f1_macro": 0.5813008310131881,
+            "val_precision_macro": 0.591411295454412,
+            "val_recall_macro": 0.5934361193718322
+        },
+        {
+            "timestamp": "20260525_131637",
+            "epoch": 3,
+            "average_train_loss": 0.0732037811861739,
+            "average_val_loss": 0.06916355158761084,
+            "val_accuracy": 0.9832652018395504,
+            "val_f1_macro": 0.6663831920550021,
+            "val_precision_macro": 0.6926257228620366,
+            "val_recall_macro": 0.6607514167879297
+        },
+        {
+            "timestamp": "20260525_134840",
+            "epoch": 4,
+            "average_train_loss": 0.06725322170120131,
+            "average_val_loss": 0.06601280230187029,
+            "val_accuracy": 0.9844149207971384,
+            "val_f1_macro": 0.7426900496436071,
+            "val_precision_macro": 0.7883397412003049,
+            "val_recall_macro": 0.725332716818785
+        },
+        {
+            "timestamp": "20260525_142058",
+            "epoch": 5,
+            "average_train_loss": 0.06491819031607741,
+            "average_val_loss": 0.06294612338442815,
+            "val_accuracy": 0.983903934593766,
+            "val_f1_macro": 0.7735648747267524,
+            "val_precision_macro": 0.7997963684819929,
+            "val_recall_macro": 0.7719321260051186
+        },
+        {
+            "timestamp": "20260525_145252",
+            "epoch": 6,
+            "average_train_loss": 0.06422756943990926,
+            "average_val_loss": 0.06096406403257916,
+            "val_accuracy": 0.9847981604496678,
+            "val_f1_macro": 0.8375501869492552,
+            "val_precision_macro": 0.8768051430804489,
+            "val_recall_macro": 0.8232349489298331
+        },
+        {
+            "timestamp": "20260525_152558",
+            "epoch": 7,
+            "average_train_loss": 0.060455438092382005,
+            "average_val_loss": 0.057195111885977944,
+            "val_accuracy": 0.9837761880429229,
+            "val_f1_macro": 0.8053831969147878,
+            "val_precision_macro": 0.8246612716310432,
+            "val_recall_macro": 0.8148693684302414
+        },
+        {
+            "timestamp": "20260525_155811",
+            "epoch": 8,
+            "average_train_loss": 0.06103773722773251,
+            "average_val_loss": 0.056585468427511394,
+            "val_accuracy": 0.9835206949412366,
+            "val_f1_macro": 0.8143394710006603,
+            "val_precision_macro": 0.8389729974694305,
+            "val_recall_macro": 0.8216620530916966
+        },
+        {
+            "timestamp": "20260525_162959",
+            "epoch": 9,
+            "average_train_loss": 0.059421607157830715,
+            "average_val_loss": 0.05439149543126039,
+            "val_accuracy": 0.984925907000511,
+            "val_f1_macro": 0.8591953899576219,
+            "val_precision_macro": 0.9219767765563054,
+            "val_recall_macro": 0.8650831851116855
+        },
+        {
+            "timestamp": "20260525_170207",
+            "epoch": 10,
+            "average_train_loss": 0.05845548039400422,
+            "average_val_loss": 0.06096089485824366,
+            "val_accuracy": 0.9836484414920798,
+            "val_f1_macro": 0.8648918822444515,
+            "val_precision_macro": 0.9056184661045926,
+            "val_recall_macro": 0.8705648935405272
+        }
+    ],
+    "finished_at": "20260525_170207",
+    "duration_seconds": 19326.910534
+}

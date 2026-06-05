@@ -1,0 +1,13 @@
+{
+    "library": "SolidLetters",
+    "epochs": 10,
+    "history": [
+        {
+            "timestamp": "20260526_083825",
+            "test_accuracy": 0.9430440771349863,
+            "test_f1_macro": 0.9434402436193328,
+            "test_precision_macro": 0.9457647985770462,
+            "test_recall_macro": 0.9435915023066099
+        }
+    ]
+}

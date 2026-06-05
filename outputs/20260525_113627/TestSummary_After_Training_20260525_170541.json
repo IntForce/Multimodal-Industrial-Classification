@@ -1,0 +1,13 @@
+{
+    "library": "TraceParts",
+    "epochs": 10,
+    "history": [
+        {
+            "timestamp": "20260525_170541",
+            "test_accuracy": 0.9831374552887072,
+            "test_f1_macro": 0.814126021368766,
+            "test_precision_macro": 0.82479546116756,
+            "test_recall_macro": 0.8386862855784588
+        }
+    ]
+}

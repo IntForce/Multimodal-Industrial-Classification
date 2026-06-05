@@ -1,0 +1,14 @@
+[Orchestrator] > Model weights saved successfully.
+[System] > Testing Classifier
+[Orchestrator] > (Principal Component Analysis):features -- explained variance = [555.04126  195.5892    45.153687]
+d:\OneDrive - Aarhus universitet\Aarhus Universitet\6. semester\Bachelorprojekt\Models\Model_Revised\Orchestrator.py:429: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  cmap=plt.cm.get_cmap('rainbow', len(np.unique(classes)))
+[Orchestrator] > (Principal Component Analysis):features -- explained variance = [48.372463 17.191364 10.722228]
+d:\OneDrive - Aarhus universitet\Aarhus Universitet\6. semester\Bachelorprojekt\Models\Model_Revised\Orchestrator.py:429: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  cmap=plt.cm.get_cmap('rainbow', len(np.unique(classes)))
+[Orchestrator] > (Principal Component Analysis):features -- explained variance = [167.8799     20.227266    5.3768806]
+d:\OneDrive - Aarhus universitet\Aarhus Universitet\6. semester\Bachelorprojekt\Models\Model_Revised\Orchestrator.py:429: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  cmap=plt.cm.get_cmap('rainbow', len(np.unique(classes)))
+[System] > Temporary hold (waiting for user input)
+Press any key to continue...
+[System] > Execution complete.

@@ -1,0 +1,2 @@
+# Ignores generated model weights
+*.pth

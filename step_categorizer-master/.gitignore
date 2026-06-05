@@ -1,0 +1,9 @@
+Build/
+Dist/
+Gallery/
+rules/
+cache/
+cache/*
+__pycache__/
+settings.json
+categorizer.spec
