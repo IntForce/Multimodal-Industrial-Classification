@@ -34,7 +34,7 @@ The project utilized the SolidLetters and TraceParts for benchmarking and evalua
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/](https://github.com/)[IntForce]/[Multimodal-Industrial-Classification].git
+git clone https://github.com/IntForce/Multimodal-Industrial-Classification.git
 cd [Multimodal-Industrial-Classification]
 ```
 
