@@ -11,8 +11,12 @@ This repository contains all relevant files for the Multimodal Industrial Classi
 
 This repository contains the multimodal architecture and data processing pipelines used in the MICS project.
 The full documentation for all modules is generated automatically and hosted via GitHub Pages.
+The project utilized the SolidLetters and TraceParts for benchmarking and evaluating model metrics.
 
 📖 **[Documentation](https://intforce.github.io/Multimodal-Industrial-Classification/)**
+
+
+🔗 **[SolidLetters](https://github.com/AutodeskAILab/UV-Net)**, **[TraceParts](https://www.traceparts.com/en)**, **[STEP-categorizer](https://gitlab.au.dk/maleci/aimo/step_categorizer)**
 
 ## Key Components
 
@@ -35,13 +39,13 @@ cd [Multimodal-Industrial-Classification]
 ```
 
 2. Install the required dependencies:
-- **Anaconda**
+**Anaconda**
 Use the `anaconda_env.yml` environment file if you are planning to execute the project using Anaconda.
 ```bash
 conda env create -f anaconda_env.yml
 ```
 
-- **Pip (Windows)**
+**Pip (Windows)**
 Install and use [Python v3.9.15](https://www.python.org/downloads/).
 
 Create and activate the pip environment
@@ -74,6 +78,7 @@ To execute the pipeline first open the STEP-categorizer follow these steps.
 
 ## Project Structure
 
+```bash
 ├── docs/                   # Generated pdoc HTML documentation
 ├── outputs/                # Directory for generated model weights (.pth)
 ├── Orchestrator.py         # Pipeline mediator
@@ -83,3 +88,4 @@ To execute the pipeline first open the STEP-categorizer follow these steps.
 ├── MetricProcessor.py      # Multilayer perceptron (ML)
 ├── FeatureProcessor.py     # Feature fusion
 └── FeatureClassifier.py    # Final classification head
+```
