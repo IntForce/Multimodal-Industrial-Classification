@@ -39,8 +39,9 @@ cd [Multimodal-Industrial-Classification]
 ```
 
 2. Install the required dependencies:
-3. 
+
 **Anaconda**
+
 Use the `anaconda_env.yml` environment file if you are planning to execute the project using Anaconda.
 ```bash
 conda env create -f anaconda_env.yml
