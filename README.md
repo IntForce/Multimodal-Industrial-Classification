@@ -35,7 +35,7 @@ The project utilized the SolidLetters and TraceParts for benchmarking and evalua
 1. Clone the repository:
 ```bash
 git clone https://github.com/IntForce/Multimodal-Industrial-Classification.git
-cd [Multimodal-Industrial-Classification]
+cd Multimodal-Industrial-Classification
 ```
 
 2. Install the required dependencies:
