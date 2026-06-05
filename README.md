@@ -12,7 +12,7 @@ This repository contains all relevant files for the Multimodal Industrial Classi
 This repository contains the multimodal architecture and data processing pipelines used in the MICS project.
 The full documentation for all modules is generated automatically and hosted via GitHub Pages.
 
-📖 ** [View the Documentation Here](https://intforce.github.io/Multimodal-Industrial-Classification/)
+📖 **[View the Documentation Here](https://intforce.github.io/Multimodal-Industrial-Classification/)**
 
 ## Key Components
 
