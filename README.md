@@ -1,9 +1,9 @@
 # MICS: Multimodal-Industrial-Classification
 This repository contains all relevant files for the Multimodal Industrial Classification (MICS) project. MICS intends to implement a multimodal architecture using visual image and tabular data for performing classification. The architecture implements ResNet18 along with a multilayer perceptron in a combined architecure.
 
-** 📖 [![Docs](https://img.shields.io/badge/docs-GitHub_Pages-blue.svg)](https://intforce.github.io/Multimodal-Industrial-Classification/)
-** [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](#)
-** [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](#)
+[![Docs](https://img.shields.io/badge/docs-GitHub_Pages-blue.svg)](https://intforce.github.io/Multimodal-Industrial-Classification/)
+[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](#)
 
 ---
 
